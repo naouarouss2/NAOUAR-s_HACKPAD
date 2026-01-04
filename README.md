@@ -1,3 +1,5 @@
+**NAOUAR's HACKPAD**
+
 I do a lot of multitasking daily, and that also means that I use a lot of shortcuts, either to switch between apps, or to execute some programs, taks, and commands.
 Some of the shortcuts can be pretty sketchy to get to, especially those that have buttons very far apart on the keyboard and require you to get your right hand off the mouse.
 So to solve all of that, I decided to make a HACKPAD that has 12 programmable switches, a switch to switch between 4 keymaps, an encoder, an OLED display, and of course RGB.
